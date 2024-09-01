@@ -1,0 +1,202 @@
+[
+  {
+    "PatientID": "12345",
+    "Name": "John Doe",
+    "Age": 45,
+    "Gender": "Male",
+    "MedicalHistory": {
+      "Allergies": ["Peanuts", "Penicillin"],
+      "Medications": ["Aspirin", "Lisinopril"],
+      "PreviousConditions": ["Hypertension", "Asthma"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-08-01",
+        "Doctor": "Dr. Smith",
+        "Diagnosis": "Upper Respiratory Infection",
+        "Treatment": "Prescribed antibiotics"
+      },
+      {
+        "Date": "2024-07-15",
+        "Doctor": "Dr. Green",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Recommended diet changes"
+      }
+    ]
+  },
+  {
+    "PatientID": "67890",
+    "Name": "Jane Smith",
+    "Age": 32,
+    "Gender": "Female",
+    "MedicalHistory": {
+      "Allergies": ["None"],
+      "Medications": ["Metformin"],
+      "PreviousConditions": ["Type 2 Diabetes"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-07-22",
+        "Doctor": "Dr. Brown",
+        "Diagnosis": "Migraine",
+        "Treatment": "Prescribed pain relievers"
+      },
+      {
+        "Date": "2024-06-30",
+        "Doctor": "Dr. Blue",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Recommended exercise"
+      }
+    ]
+  },
+  {
+    "PatientID": "54321",
+    "Name": "Alice Johnson",
+    "Age": 29,
+    "Gender": "Female",
+    "MedicalHistory": {
+      "Allergies": ["Latex"],
+      "Medications": ["Levothyroxine"],
+      "PreviousConditions": ["Hypothyroidism"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-07-10",
+        "Doctor": "Dr. White",
+        "Diagnosis": "Allergic Reaction",
+        "Treatment": "Prescribed antihistamines"
+      },
+      {
+        "Date": "2024-05-22",
+        "Doctor": "Dr. Green",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Adjusted medication dosage"
+      }
+    ]
+  },
+  {
+    "PatientID": "98765",
+    "Name": "Robert Brown",
+    "Age": 52,
+    "Gender": "Male",
+    "MedicalHistory": {
+      "Allergies": ["Sulfa Drugs"],
+      "Medications": ["Metoprolol", "Atorvastatin"],
+      "PreviousConditions": ["Coronary Artery Disease", "Hypertension"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-08-05",
+        "Doctor": "Dr. Grey",
+        "Diagnosis": "Chest Pain",
+        "Treatment": "Admitted for observation, scheduled for stress test"
+      },
+      {
+        "Date": "2024-06-18",
+        "Doctor": "Dr. Black",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Recommended cholesterol management"
+      }
+    ]
+  },
+  {
+    "PatientID": "24680",
+    "Name": "Emily Davis",
+    "Age": 37,
+    "Gender": "Female",
+    "MedicalHistory": {
+      "Allergies": ["None"],
+      "Medications": ["Ibuprofen", "Oral Contraceptives"],
+      "PreviousConditions": ["Anemia"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-07-30",
+        "Doctor": "Dr. Pink",
+        "Diagnosis": "Lower Back Pain",
+        "Treatment": "Prescribed physical therapy"
+      },
+      {
+        "Date": "2024-05-10",
+        "Doctor": "Dr. Blue",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Recommended iron supplements"
+      }
+    ]
+  },
+  {
+    "PatientID": "11223",
+    "Name": "Michael Green",
+    "Age": 41,
+    "Gender": "Male",
+    "MedicalHistory": {
+      "Allergies": ["None"],
+      "Medications": ["Insulin", "Losartan"],
+      "PreviousConditions": ["Type 1 Diabetes", "High Blood Pressure"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-08-02",
+        "Doctor": "Dr. Yellow",
+        "Diagnosis": "Foot Ulcer",
+        "Treatment": "Referred to a podiatrist, prescribed antibiotics"
+      },
+      {
+        "Date": "2024-06-15",
+        "Doctor": "Dr. Brown",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Adjusted insulin dosage"
+      }
+    ]
+  },
+  {
+    "PatientID": "33445",
+    "Name": "Jessica White",
+    "Age": 50,
+    "Gender": "Female",
+    "MedicalHistory": {
+      "Allergies": ["Seafood"],
+      "Medications": ["Warfarin"],
+      "PreviousConditions": ["Deep Vein Thrombosis", "Osteoporosis"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-07-28",
+        "Doctor": "Dr. Black",
+        "Diagnosis": "Blood Clot",
+        "Treatment": "Adjusted anticoagulant therapy"
+      },
+      {
+        "Date": "2024-05-20",
+        "Doctor": "Dr. Green",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Bone density scan scheduled"
+      }
+    ]
+  },
+  {
+    "PatientID": "55667",
+    "Name": "David Wilson",
+    "Age": 63,
+    "Gender": "Male",
+    "MedicalHistory": {
+      "Allergies": ["None"],
+      "Medications": ["Albuterol", "Omeprazole"],
+      "PreviousConditions": ["COPD", "Gastric Reflux"]
+    },
+    "RecentVisits": [
+      {
+        "Date": "2024-08-10",
+        "Doctor": "Dr. Grey",
+        "Diagnosis": "Shortness of Breath",
+        "Treatment": "Inhaler prescription refilled, scheduled pulmonary function test"
+      },
+      {
+        "Date": "2024-06-25",
+        "Doctor": "Dr. White",
+        "Diagnosis": "Routine Check-up",
+        "Treatment": "Advised dietary changes for reflux"
+      }
+    ]
+  }
+]
